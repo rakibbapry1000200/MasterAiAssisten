@@ -1,0 +1,7 @@
+{
+  "name": "Master AI Voice Assistant",
+  "description": "A sophisticated voice-first AI assistant named Master, created by Robiul Islam Rakib, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
